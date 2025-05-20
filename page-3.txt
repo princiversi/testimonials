@@ -1,0 +1,222 @@
+[
+  {
+    "id": "0041",
+    "name": "Stephanie B.",
+    "gender": "female",
+    "role": "Turf Care Startup Founder",
+    "location": "Port Erin, CA",
+    "tag": "Side Hustler",
+    "verified": true,
+    "testimonial": "Before this, I had no idea how to find clients. Now I'm a full-time turf care startup founder and business is booming.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0042",
+    "name": "Brooke A.",
+    "gender": "female",
+    "role": "Hardscape Marketing Pro",
+    "location": "New Catherine, VT",
+    "tag": "New Business Owner",
+    "verified": true,
+    "testimonial": "This helped me turn part-time lawn care into full-time income as a hardscape marketing pro.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0043",
+    "name": "Gregory M.",
+    "gender": "male",
+    "role": "New Lawn Care Business Owner",
+    "location": "Shelleyfort, CA",
+    "tag": "Student",
+    "verified": true,
+    "testimonial": "I've tried other courses, but this is the first one that helped me get actual paying clients. Now I call myself a new lawn care business owner.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0044",
+    "name": "Mark C.",
+    "gender": "male",
+    "role": "Turf Care Startup Founder",
+    "location": "Marshallshire, MD",
+    "tag": "Just Launched",
+    "verified": true,
+    "testimonial": "It gave me a whole new game plan for growing my landscaping biz. I'm now a turf care startup founder.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0045",
+    "name": "David B.",
+    "gender": "male",
+    "role": "Turf Care Startup Founder",
+    "location": "South Rachelborough, AZ",
+    "tag": "Freelancer",
+    "verified": true,
+    "testimonial": "I've tried other courses, but this is the first one that helped me get actual paying clients. Now I call myself a turf care startup founder.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0046",
+    "name": "Curtis C.",
+    "gender": "male",
+    "role": "New Lawn Care Business Owner",
+    "location": "Johnbury, OK",
+    "tag": "Student",
+    "verified": true,
+    "testimonial": "I literally followed the course step-by-step and now I\u2019m running my own new lawn care business owner operation.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0047",
+    "name": "John Y.",
+    "gender": "male",
+    "role": "Hardscape Marketing Pro",
+    "location": "South Monicafort, ID",
+    "tag": "Side Hustler",
+    "verified": true,
+    "testimonial": "This course totally changed how I approach marketing my landscaping services. I'm now confidently running my business as a hardscape marketing pro.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0048",
+    "name": "Kenneth A.",
+    "gender": "male",
+    "role": "Irrigation Biz Starter",
+    "location": "Richardtown, LA",
+    "tag": "Side Hustler",
+    "verified": true,
+    "testimonial": "This course totally changed how I approach marketing my landscaping services. I'm now confidently running my business as a irrigation biz starter.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0049",
+    "name": "Willie P.",
+    "gender": "male",
+    "role": "Lead Gen Specialist for Lawn Services",
+    "location": "Norrisfort, AZ",
+    "tag": "New Business Owner",
+    "verified": true,
+    "testimonial": "This course totally changed how I approach marketing my landscaping services. I'm now confidently running my business as a lead gen specialist for lawn services.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0050",
+    "name": "William B.",
+    "gender": "male",
+    "role": "Hardscape Marketing Pro",
+    "location": "Joshuaview, AL",
+    "tag": "Freelancer",
+    "verified": true,
+    "testimonial": "Incredible resource. Turned my weekend lawn side hustle into a legit hardscape marketing pro gig.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0051",
+    "name": "Donald K.",
+    "gender": "male",
+    "role": "Lead Gen Specialist for Lawn Services",
+    "location": "South Danny, SD",
+    "tag": "Just Launched",
+    "verified": true,
+    "testimonial": "It gave me a whole new game plan for growing my landscaping biz. I'm now a lead gen specialist for lawn services.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0052",
+    "name": "Michael G.",
+    "gender": "male",
+    "role": "Lead Gen Specialist for Lawn Services",
+    "location": "North Dawnberg, NH",
+    "tag": "Freelancer",
+    "verified": true,
+    "testimonial": "Incredible resource. Turned my weekend lawn side hustle into a legit lead gen specialist for lawn services gig.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0053",
+    "name": "Anthony O.",
+    "gender": "male",
+    "role": "Irrigation Biz Starter",
+    "location": "Lake Jesusview, WY",
+    "tag": "Freelancer",
+    "verified": true,
+    "testimonial": "I didn\u2019t even know what AI was, but after this course I\u2019m running ads and closing deals as a irrigation biz starter.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0054",
+    "name": "Jonathan S.",
+    "gender": "male",
+    "role": "New Lawn Care Business Owner",
+    "location": "Lake John, MI",
+    "tag": "Side Hustler",
+    "verified": true,
+    "testimonial": "Before this, I had no idea how to find clients. Now I'm a full-time new lawn care business owner and business is booming.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0055",
+    "name": "Donna L.",
+    "gender": "female",
+    "role": "Irrigation Biz Starter",
+    "location": "Lake Leeton, NJ",
+    "tag": "Side Hustler",
+    "verified": true,
+    "testimonial": "I literally followed the course step-by-step and now I\u2019m running my own irrigation biz starter operation.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0056",
+    "name": "Lawrence G.",
+    "gender": "male",
+    "role": "Irrigation Biz Starter",
+    "location": "North Stephenshire, CA",
+    "tag": "Just Launched",
+    "verified": true,
+    "testimonial": "It gave me a whole new game plan for growing my landscaping biz. I'm now a irrigation biz starter.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0057",
+    "name": "Mallory O.",
+    "gender": "female",
+    "role": "New Lawn Care Business Owner",
+    "location": "North Jessicaland, ND",
+    "tag": "New Business Owner",
+    "verified": true,
+    "testimonial": "Incredible resource. Turned my weekend lawn side hustle into a legit new lawn care business owner gig.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0058",
+    "name": "Michael L.",
+    "gender": "male",
+    "role": "New Lawn Care Business Owner",
+    "location": "South Christopherview, DE",
+    "tag": "Student",
+    "verified": true,
+    "testimonial": "I didn\u2019t even know what AI was, but after this course I\u2019m running ads and closing deals as a new lawn care business owner.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0059",
+    "name": "Matthew M.",
+    "gender": "male",
+    "role": "Irrigation Biz Starter",
+    "location": "Stevenmouth, IL",
+    "tag": "Student",
+    "verified": true,
+    "testimonial": "This helped me turn part-time lawn care into full-time income as a irrigation biz starter.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0060",
+    "name": "Mark B.",
+    "gender": "male",
+    "role": "AI Marketing Consultant for Landscapers",
+    "location": "Phambury, GA",
+    "tag": "Side Hustler",
+    "verified": true,
+    "testimonial": "I've tried other courses, but this is the first one that helped me get actual paying clients. Now I call myself a ai marketing consultant for landscapers.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  }
+]
