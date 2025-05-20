@@ -1,0 +1,222 @@
+[
+  {
+    "id": "0061",
+    "name": "Matthew P.",
+    "gender": "male",
+    "role": "Irrigation Biz Starter",
+    "location": "Norrisfort, AZ",
+    "tag": "Side Hustler",
+    "verified": true,
+    "testimonial": "Incredible resource. Turned my weekend lawn side hustle into a legit irrigation biz starter gig.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0062",
+    "name": "Jeremiah R.",
+    "gender": "male",
+    "role": "New Lawn Care Business Owner",
+    "location": "Tinaborough, IN",
+    "tag": "Freelancer",
+    "verified": true,
+    "testimonial": "It gave me a whole new game plan for growing my landscaping biz. I'm now a new lawn care business owner.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0063",
+    "name": "Nicholas D.",
+    "gender": "male",
+    "role": "Hardscape Marketing Pro",
+    "location": "Perryborough, MT",
+    "tag": "Freelancer",
+    "verified": true,
+    "testimonial": "It gave me a whole new game plan for growing my landscaping biz. I'm now a hardscape marketing pro.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0064",
+    "name": "Edward B.",
+    "gender": "male",
+    "role": "Lead Gen Specialist for Lawn Services",
+    "location": "Lake Leeton, NJ",
+    "tag": "Student",
+    "verified": true,
+    "testimonial": "This course helped me become a successful lead gen specialist for lawn services.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0065",
+    "name": "Christopher A.",
+    "gender": "male",
+    "role": "Freelance Landscape Marketer",
+    "location": "Robertfort, IA",
+    "tag": "Freelancer",
+    "verified": true,
+    "testimonial": "I've tried other courses, but this is the first one that helped me get actual paying clients. Now I call myself a freelance landscape marketer.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0066",
+    "name": "Joshua M.",
+    "gender": "male",
+    "role": "Irrigation Biz Starter",
+    "location": "North John, NM",
+    "tag": "Side Hustler",
+    "verified": true,
+    "testimonial": "Before this, I had no idea how to find clients. Now I'm a full-time irrigation biz starter and business is booming.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0067",
+    "name": "Joseph M.",
+    "gender": "male",
+    "role": "AI Marketing Consultant for Landscapers",
+    "location": "North Brandon, RI",
+    "tag": "Freelancer",
+    "verified": true,
+    "testimonial": "This course helped me become a successful ai marketing consultant for landscapers.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0068",
+    "name": "Ronald S.",
+    "gender": "male",
+    "role": "Small Landscaping Business Owner",
+    "location": "North Collin, MI",
+    "tag": "Student",
+    "verified": true,
+    "testimonial": "It gave me a whole new game plan for growing my landscaping biz. I'm now a small landscaping business owner.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0069",
+    "name": "Roger O.",
+    "gender": "male",
+    "role": "New Lawn Care Business Owner",
+    "location": "West Ryan, MA",
+    "tag": "Student",
+    "verified": true,
+    "testimonial": "This course helped me become a successful new lawn care business owner.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0070",
+    "name": "Robert F.",
+    "gender": "male",
+    "role": "Turf Care Startup Founder",
+    "location": "Port Anthonybury, AK",
+    "tag": "Just Launched",
+    "verified": true,
+    "testimonial": "This course totally changed how I approach marketing my landscaping services. I'm now confidently running my business as a turf care startup founder.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0071",
+    "name": "Gina W.",
+    "gender": "female",
+    "role": "New Lawn Care Business Owner",
+    "location": "Shelleyfort, CA",
+    "tag": "Freelancer",
+    "verified": true,
+    "testimonial": "This course helped me become a successful new lawn care business owner.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0072",
+    "name": "Victor T.",
+    "gender": "male",
+    "role": "Hardscape Marketing Pro",
+    "location": "North Angela, PA",
+    "tag": "Freelancer",
+    "verified": true,
+    "testimonial": "Before this, I had no idea how to find clients. Now I'm a full-time hardscape marketing pro and business is booming.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0073",
+    "name": "Vincent D.",
+    "gender": "male",
+    "role": "New Lawn Care Business Owner",
+    "location": "New Charles, MT",
+    "tag": "Freelancer",
+    "verified": true,
+    "testimonial": "This course helped me become a successful new lawn care business owner.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0074",
+    "name": "Misty W.",
+    "gender": "female",
+    "role": "Turf Care Startup Founder",
+    "location": "Sandovalshire, MD",
+    "tag": "Student",
+    "verified": true,
+    "testimonial": "Incredible resource. Turned my weekend lawn side hustle into a legit turf care startup founder gig.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0075",
+    "name": "Tracy B.",
+    "gender": "female",
+    "role": "Turf Care Startup Founder",
+    "location": "Richardtown, LA",
+    "tag": "Student",
+    "verified": true,
+    "testimonial": "This helped me turn part-time lawn care into full-time income as a turf care startup founder.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0076",
+    "name": "Jacob G.",
+    "gender": "male",
+    "role": "Irrigation Biz Starter",
+    "location": "Jamesmouth, KS",
+    "tag": "Side Hustler",
+    "verified": true,
+    "testimonial": "This course helped me become a successful irrigation biz starter.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0077",
+    "name": "Adrian H.",
+    "gender": "male",
+    "role": "New Lawn Care Business Owner",
+    "location": "Cherylhaven, TN",
+    "tag": "Just Launched",
+    "verified": true,
+    "testimonial": "This course helped me become a successful new lawn care business owner.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0078",
+    "name": "Jesse C.",
+    "gender": "male",
+    "role": "New Lawn Care Business Owner",
+    "location": "Shelleyfort, CA",
+    "tag": "Student",
+    "verified": true,
+    "testimonial": "This course helped me become a successful new lawn care business owner.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0079",
+    "name": "Michael R.",
+    "gender": "male",
+    "role": "Hardscape Marketing Pro",
+    "location": "Richardtown, LA",
+    "tag": "Freelancer",
+    "verified": true,
+    "testimonial": "I didn\u2019t even know what AI was, but after this course I\u2019m running ads and closing deals as a hardscape marketing pro.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  },
+  {
+    "id": "0080",
+    "name": "Samantha B.",
+    "gender": "female",
+    "role": "Turf Care Startup Founder",
+    "location": "Shelleyfort, CA",
+    "tag": "Just Launched",
+    "verified": true,
+    "testimonial": "This course helped me become a successful turf care startup founder.",
+    "avatar": "https://thispersondoesnotexist.com/image"
+  }
+]
